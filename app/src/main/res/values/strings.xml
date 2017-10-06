@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HiLoV2</string>
+    <string name="userGuess">Guess a number from 1-1000</string>
+    <string name="inputRangeText">1-1000</string>
+    <string name="guessButtonText">Guess !</string>
+    <string name="resetButtonText">Reset</string>
+</resources>
